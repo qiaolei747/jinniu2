@@ -8,6 +8,7 @@ public class Jinniu2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Jinniu2Application.class, args);
+        System.out.println('1122334');
     }
 
 }
